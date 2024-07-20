@@ -1,0 +1,14 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.log
+bin/
+obj/
+
+# Ignore build outputs
+build/
+out/
+dist/
+
+# Ignore dependency directories
+node_modules/
